@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark-learn-master/spark-learn.iml" filepath="$PROJECT_DIR$/spark-learn-master/spark-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark-learn-master.iml" filepath="$PROJECT_DIR$/.idea/spark-learn-master.iml" />
+    </modules>
+  </component>
+</project>
